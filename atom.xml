@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Stranger|专注用户</title>
+  
+  <subtitle>WelCome to my blog！</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://stranger.github.io/"/>
+  <updated>2020-06-24T11:16:28.099Z</updated>
+  <id>https://stranger.github.io/</id>
+  
+  <author>
+    <name>Stranger</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>GitHub 常用命令</title>
+    <link href="https://stranger.github.io/2020/06/24/github/"/>
+    <id>https://stranger.github.io/2020/06/24/github/</id>
+    <published>2020-06-23T22:55:30.000Z</published>
+    <updated>2020-06-24T11:16:28.099Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;本文为一些GitHub的一些常见命令，共大家记忆（给我自己备份……）&lt;/p&gt;
+&lt;h1 id=&quot;本地连接GitHub仓库&quot;&gt;&lt;a href=&quot;#本地连接GitHub仓库&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="GitHub" scheme="https://Stranger.github.io/categories/GitHub/"/>
+    
+    
+      <category term="GitHub" scheme="https://Stranger.github.io/tags/GitHub/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C++基础入门</title>
+    <link href="https://stranger.github.io/2020/06/24/c/"/>
+    <id>https://stranger.github.io/2020/06/24/c/</id>
+    <published>2020-06-23T22:55:30.000Z</published>
+    <updated>2020-06-24T11:12:18.660Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;C-基础入门&quot;&gt;&lt;a href=&quot;#C-基础入门&quot; class=&quot;headerlink&quot; title=&quot;C++基础入门&quot;&gt;&lt;/a&gt;C++基础入门&lt;/h1&gt;&lt;h2 id=&quot;1-C-初识&quot;&gt;&lt;a href=&quot;#1-C-初识&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="C++" scheme="https://Stranger.github.io/categories/C/"/>
+    
+    
+      <category term="C++" scheme="https://Stranger.github.io/tags/C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Magisk各版本国内更新源与下载源</title>
+    <link href="https://stranger.github.io/2020/06/24/miagisk/"/>
+    <id>https://stranger.github.io/2020/06/24/miagisk/</id>
+    <published>2020-06-23T22:16:25.000Z</published>
+    <updated>2020-06-24T11:12:29.650Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;https://pic.downk.cc/item/5e646bb898271cb2b84913fb.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Android" scheme="https://Stranger.github.io/categories/Android/"/>
+    
+    
+      <category term="Magisk" scheme="https://Stranger.github.io/tags/Magisk/"/>
+    
+      <category term="Android" scheme="https://Stranger.github.io/tags/Android/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo搭建个人博客</title>
+    <link href="https://stranger.github.io/2020/06/24/hexo/"/>
+    <id>https://stranger.github.io/2020/06/24/hexo/</id>
+    <published>2020-06-23T21:05:20.000Z</published>
+    <updated>2020-06-24T11:21:28.043Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;最快速的搭建炫丽的个人博客&quot;&gt;&lt;a href=&quot;#最快速的搭建炫丽的个人博客&quot; class=&quot;headerlink&quot; title=&quot;最快速的搭建炫丽的个人博客&quot;&gt;&lt;/a&gt;最快速的搭建炫丽的个人博客&lt;/h1&gt;&lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+    
+      <category term="教程" scheme="https://Stranger.github.io/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="教程" scheme="https://Stranger.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://stranger.github.io/2020/06/23/hello-world/"/>
+    <id>https://stranger.github.io/2020/06/23/hello-world/</id>
+    <published>2020-06-23T13:58:59.033Z</published>
+    <updated>2020-06-23T21:05:56.480Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;这仅仅是一篇示例文章&lt;/p&gt;
+&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
